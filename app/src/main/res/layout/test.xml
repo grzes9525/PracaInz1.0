@@ -1,0 +1,16 @@
+<LinearLayout android:id="@+id/linearLayout1"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@+id/aktiviraj_paket"
+        android:text="Zarejestruj się"
+        android:layout_height="40sp"
+        android:layout_weight="1"
+        android:layout_width="0dp"></Button>
+    <Button android:id="@+id/deaktiviraj_paket"
+        android:text="Zaloguj się"
+        android:layout_height="40sp"
+        android:layout_weight="1"
+        android:layout_width="0dp">
+    </Button>
+</LinearLayout>
